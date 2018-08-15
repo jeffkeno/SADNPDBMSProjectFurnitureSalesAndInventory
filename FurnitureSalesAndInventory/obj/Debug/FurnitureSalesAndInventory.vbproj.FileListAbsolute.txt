@@ -1,0 +1,41 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.LoginForm1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.SplashScreen1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.pdb
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.exe
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.xml
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.pdb
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.exe
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.xml
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.pdb
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.exe
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\ResolveAssemblyReference.cache
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form1.resources
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form2.resources
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form3.resources
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.LoginForm1.resources
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Resources.resources
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.SplashScreen1.resources
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\GenerateResource.read.1.tlog
+G:\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.exe
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.xml
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.pdb
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form1.resources
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form2.resources
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form3.resources
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.LoginForm1.resources
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Resources.resources
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.SplashScreen1.resources
+C:\Users\Cheryl\Desktop\FurnitureSalesAndInventory\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.vbproj.GenerateResource.Cache

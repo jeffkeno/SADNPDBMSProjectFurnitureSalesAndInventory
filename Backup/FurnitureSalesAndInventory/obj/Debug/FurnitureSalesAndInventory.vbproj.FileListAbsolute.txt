@@ -1,0 +1,15 @@
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.exe
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.pdb
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\bin\Debug\FurnitureSalesAndInventory.xml
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form1.resources
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form2.resources
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Form3.resources
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.LoginForm1.resources
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.Resources.resources
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.SplashScreen1.resources
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\GenerateResource.read.1.tlog
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\GenerateResource.write.1.tlog
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.exe
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.xml
+D:\Users\Abangad\Documents\FurnitureSalesAndInventory\Backup\FurnitureSalesAndInventory\obj\Debug\FurnitureSalesAndInventory.pdb
